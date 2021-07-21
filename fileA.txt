@@ -2,3 +2,5 @@ initial
 featA
     featA: update1
     featA: update2
+
+featG
