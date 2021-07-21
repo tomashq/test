@@ -1,3 +1,4 @@
 initial
 featB
-    featB: fix1
+featB2
+
